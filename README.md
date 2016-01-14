@@ -1,1 +1,1 @@
-A barebones Angular 2 application in TypeScript based on the angular.io [5 min quickstart](https://angular.io/docs/ts/latest/quickstart.html) tutorial.
+Seed for Angular 2 application in TypeScript based on the angular.io [5 min quickstart](https://angular.io/docs/ts/latest/quickstart.html) tutorial. Type ```npm install``` in the command line to install all dependencies. To fire up the server and compile TypeScript enter ```npm start```. This will watch for changes, recompile ```*.ts``` files and refresh the browser.
